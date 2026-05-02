@@ -19,6 +19,13 @@ Paper Award at the China Marketing International Conference (2023), and the Best
 I teach Marketing at the undergraduate and MBA levels, and Frontiers of Management and Research Methods at the Ph.D. level. I am the winner of the Premier Award in the SUSTech Teaching Competition and have also been recognized as one of the "Top 10 Most Popular Professors Among Undergraduate Graduates." My other honors include the SUSTech Teaching Achievement Award, the SUSTech Teaching Excellence Award, and the Excellent Graduate Teacher Award from Nanyang Business School.
 
 
+Research Interests
+======
+
+1. **Research Themes**: digital economy and social well-being, technology-driven marketing (e.g., human-robot interactions and consumer behavior on digital platforms), branding, and culture
+2. **Research Methods**: Combination of Experiments and Big Data Analysis
+
+
 
 
 
