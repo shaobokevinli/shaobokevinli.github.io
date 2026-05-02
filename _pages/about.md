@@ -22,7 +22,7 @@ I teach Marketing at the undergraduate and MBA levels, and Frontiers of Manageme
 Research Interests
 ------
 1. **Research Themes**: digital economy and social well-being, technology-driven marketing (e.g., human-robot interactions and consumer behavior on digital platforms), branding, and culture
-2. **Research Methods**: Combination of Experiments and Big Data Analysis
+2. **Research Methods**: Combination of Experiments and Empirical Modeling
 
 
 
