@@ -7,6 +7,21 @@ redirect_from:
   - /about.html
 ---
 
+I am a Tenured Associate Professor at the College of Business, Southern University of Science and Technology (SUSTech). I earned my PhD in Marketing from Nanyang Technological University, Singapore, in 2019, under the supervision of [Prof. Sharon Ng](https://dr.ntu.edu.sg/entities/person/Sharon-Ng) and [Prof. Kuangjie Zhang](https://dr.ntu.edu.sg/entities/person/Zhang-Kuangjie). I have been selected for the National Youth Talent Program and recognized as Overseas High-Caliber Personnel in Shenzhen.
+
+My research focuses on the interface between marketing and information systems, specializing in the digital economy and social well-being, technology-driven marketing (e.g., human-robot interactions and consumer behavior on digital platforms), branding, and culture. Methodologically, my research primarily employs experimental approaches, complemented by econometric modeling and neuroscientific techniques. A defining feature of my work is its close integration with industry; I serve as the Chief Behavioral Scientist for UBTECH Robotics, the first humanoid robot company to go public in China. Consequently, much of my research originates from real-world industrial challenges and data. Methodologically, I employ a hybrid approach, combining experimental methods in the lab to test the underlying psychological mechanisms identified from field-based insights, with econometric modeling and neuroscientific techniques.
+
+I serve as an Associate Editor for the Journal of Business Research and have published in leading UTD-24 journals, such as the Journal of Consumer Research, Management Science, MIS Quarterly, Information Systems Research, and Production and Operations Management (IS department), as well as other premier outlets including PNAS Nexus, Organizational Behavior and Human Decision Processes, and the International Journal of Research in Marketing.
+
+I have led more than 10 research projects funded by the National Natural Science Foundation of China (NSFC) and other organizations, and I have participated in major technological initiatives, such as the Ministry of Science and Technology's 2030 Key Technology Innovation Program. I am the recipient of the AMS Doctoral Dissertation Proposal Competition Award (2019), the Best Paper Award at the Annual Conference of China Marketing Science (2020, 2024), the Outstanding 
+Paper Award at the China Marketing International Conference (2023), and the Best Paper Award at the Chinese Marketing Association of Universities Academic Annual Conference (2023).
+
+I teach Marketing at the undergraduate and MBA levels, and Frontiers of Management and Research Methods at the Ph.D. level. I am the winner of the Premier Award in the SUSTech Teaching Competition and have also been recognized as one of the "Top 10 Most Popular Professors Among Undergraduate Graduates." My other honors include the SUSTech Teaching Achievement Award, the SUSTech Teaching Excellence Award, and the Excellent Graduate Teacher Award from Nanyang Business School.
+
+
+
+
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -35,9 +50,7 @@ Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+
 
 **Markdown generator**
 
