@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaobo (Kevin) Li's Academic Personal Page"
+title: "Shaobo (Kevin) Li's Academic Page"
 author_profile: true
 redirect_from: 
   - /about/
