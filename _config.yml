@@ -85,16 +85,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  2009:
-    title: '2009'
-  2010:
-    title: '2010'    
-  2015:
-    title: '2015'
+  2026:
+    title: '2026'
+  2025:
+    title: '2025'    
   2024:
     title: '2024'
-  2025:
-    title: '2025'
+  2023:
+    title: '2023'
+  2022:
+    title: '2022'
 
 
 # Site Settings
