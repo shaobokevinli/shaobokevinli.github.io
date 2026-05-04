@@ -1,0 +1,3 @@
+pub_date,title,venue,excerpt,citation,url_slug,paper_url,slides_url,category
+2026/3/1,Exploring Online Help-Seeking Tendencies: The Influence of Experience Type and Helper Identity,MIS Quarterly,,,26-exploring-1,,,2026
+2009/10/1,test,Journal 1,This paper is about the number 1. The number 2 is left for future work.,"Your Name, You. (2009). ""Paper Title Number 1."" <i>Journal 1</i>. 1(1).",paper-title-number-6,https://academicpages.github.io/files/paper1.pdf,http://academicpages.github.io/files/slides1.pdf,2023
